@@ -19,6 +19,6 @@ some_example_code <- "useful"
 ```
 
 ## Goals for the upcoming week
-What are your goals for the upcoming week? They can be specific and technical (e.g., _practice XX_) or general and more personal (e.g., _work more efficiently on homeworks_). Again, the format here is up to you -- this is also a great place to express your goals to the TAs so they can provide better support!
+What are your goals for the upcoming week? Are there any questions that you have that you hope to answer in the coming week?They can be specific and technical (e.g., _practice XX_) or general and more personal (e.g., _work more efficiently on homeworks_). Again, the format here is up to you -- this is also a great place to express your goals and areas of confusion to the TAs so they can provide better support!
 
 > Your goals here...
