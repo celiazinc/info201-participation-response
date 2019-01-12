@@ -7,5 +7,5 @@ You are encouraged to use the `weekly-template.md` file, but if you have a prefe
 
 ## Weekly Entries
 - [Weekly Template](weekly-template)
-- _add your links here_
+- Week 1 https://github.com/celiazinc/info201-participation-response.git
 - _..._
